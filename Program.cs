@@ -3,7 +3,6 @@ Console.WriteLine("Hey Jude - The Beatles");
 Console.ResetColor();
 Console.WriteLine();
 
-Console.ForegroundColor = ConsoleColor.Magenta;
 Console.WriteLine("Hey Jude, don't make it bad.");
 Console.WriteLine("Take a sad song and make it better.");
 Console.WriteLine("Remember to let her into your heart,");
@@ -25,7 +24,6 @@ Console.WriteLine("For well you know that it's a fool who plays it cool");
 Console.WriteLine("By making his world a little colder.");
 Console.WriteLine();
 
-Console.ForegroundColor = ConsoleColor.Magenta;
 Console.WriteLine("Hey Jude, don't let me down.");
 Console.WriteLine("You have found her, now go and get her.");
 Console.WriteLine("Remember to let her into your heart,");
